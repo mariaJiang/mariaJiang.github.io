@@ -1,23 +1,20 @@
 ---
 layout:     post
-title:      "我的第一篇博客"
-subtitle:   " 记一个程序媛的建站之路 "
+title:      "基于github pages + jekyll搭建个人博客网站"
+subtitle:   "2019Flag之一 "
 date:       2019-11-20 
 author:     "Maria Jiang"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - mariaJiang
+    - blog
 ---
 
-> 那是一种与生俱来的天赋，就好像矮人天生擅长舞锤，而精灵则拥有魔法庇护。那些数字时代的原住民们，天生具备着一种操纵数字世界的领悟。
+> 种一棵树最好的时间是十年前，其次是现在。 
 
 ## 前言
 
-从 2010 年 iPhone 4 横空出世席卷中国，到时隔不到半月的 Apple 2015 发布会。短短几年里，身边就几乎再也看不到“非智能手机”的身影了。
 
-想想发布那时（2010.6.8），博主应该还是一个高一小屁孩，等着暑假快点到来。虽然父上大人用着 iPhone 3GS ，不过那时我对 Apple 可没啥感觉，还用着后来被 Apple 干翻的 Nokia （5320），抱着算是被 Apple 干翻的 IBM ，偶尔玩玩后来被 Apple 干翻的 Adobe Flash……  
-虽然不是含着着金 iPhone 出生的一代，但好歹也算是摸着电脑长大的一代人，估摸着也算是 **Digital native** 了。你说这词是什么意思？别急，我们慢慢说。
 
 
 ## 正文
